@@ -1,0 +1,4 @@
+{
+  "installCommand": "npm i --force",
+  "buildCommand": "npm run build"
+}
